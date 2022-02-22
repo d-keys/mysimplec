@@ -1,4 +1,4 @@
 # mysimplec
 My simple C codes for studying and revision
 
-Code is using Portuguese language in the commentaries and variables created, as this is my first language.
+Code is using Portuguese language in the commentaries and variables created, as this is my primary language.
